@@ -137,20 +137,8 @@ https://user-images.githubusercontent.com/79189686/179920394-c6c2ea99-364c-4583-
 
 ## Contributors
 
-<a href="https://github.com/DSCKGEC/Health-Tracker-App/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=DSCKGEC/Health-Tracker-App" />
+<a href="https://github.com/DSCKGEC/Health-Tracker-App/graphs/contributors](https://github.com/Amrutrup/Health-Tracker-And-AnalyzerApp">
+  
 </a>
 
-## Contributing
 
-Please read [contributing.md](contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- 
