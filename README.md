@@ -15,9 +15,7 @@ Health Tracker is your one stop solution to keep your heath related information 
 1. [Live demo](#live-demo)
 1. [Built with](#built-with)
 1. [Contributing](#contributing)
-1. [Authors](#authors)
-1. [License](#license)
-1. [Acknowledgments](#acknowledgments)
+
 
 ## Description
 Tracking your daily Health Habits and essential Medicines as per the prescribed Schedule.
